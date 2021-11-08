@@ -3,15 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - projectile
+  - FxTemporaire
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - "\u7C43\u7403"
   - Water
   - UI
-  - 
+  - "\u73A9\u5BB6"
   - 
   - 
   - 
